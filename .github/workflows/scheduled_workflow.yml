@@ -2,8 +2,7 @@ name: Feeding holidays data with google calendar API
 
 on:
   schedule:
-    # - cron: "0 0 1 1 *" # Runs at 00:00 on day-of-month 1 in January.
-    - cron: '*/5 * * * *'  # Runs every 5 minutes (for testing)
+    - cron: "0 0 1 1 *" # Runs at 00:00 on day-of-month 1 in January.
 
 jobs:
   build:
