@@ -1,62 +1,70 @@
 {
-  "2025-01-01": {
-    "summary": "Hari Tahun Baru",
-    "description": "Hari libur nasional"
+  "2025-01-27": {
+    "summary": "Isra Mikraj Nabi Muhammad (belum pasti)",
+    "description": "Hari libur nasional\nTanggal bersifat tentatif dan dapat berubah."
   },
   "2025-01-28": {
-    "summary": "Isra Mikraj Nabi Muhammad",
+    "summary": "Cuti Bersama Tahun Baru Imlek",
     "description": "Hari libur nasional"
   },
-  "2025-01-29": {
-    "summary": "Tahun Baru Imlek",
+  "2025-03-28": {
+    "summary": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)",
     "description": "Hari libur nasional"
+  },
+  "2025-03-29": {
+    "summary": "Hari Suci Nyepi (Tahun Baru Saka)",
+    "description": "Hari libur nasional"
+  },
+  "2025-03-31": {
+    "summary": "Hari Idul Fitri (belum pasti)",
+    "description": "Hari libur nasional\nTanggal bersifat tentatif dan dapat berubah."
   },
   "2025-04-01": {
-    "summary": "Hari Idul Fitri",
-    "description": "Hari libur nasional"
+    "summary": "Hari Idul Fitri (belum pasti)",
+    "description": "Hari libur nasional\nTanggal bersifat tentatif dan dapat berubah."
   },
   "2025-04-02": {
-    "summary": "Hari Idul Fitri",
+    "summary": "Cuti Bersama Idul Fitri",
     "description": "Hari libur nasional"
   },
-  "2025-04-18": {
-    "summary": "Wafat Isa Almasih",
+  "2025-04-03": {
+    "summary": "Cuti Bersama Idul Fitri",
     "description": "Hari libur nasional"
   },
-  "2025-05-01": {
-    "summary": "Hari Buruh Internasional / Pekerja",
+  "2025-04-04": {
+    "summary": "Cuti Bersama Idul Fitri",
     "description": "Hari libur nasional"
   },
-  "2025-05-13": {
+  "2025-04-07": {
+    "summary": "Cuti Bersama Idul Fitri",
+    "description": "Hari libur nasional"
+  },
+  "2025-04-20": {
+    "summary": "Hari Paskah",
+    "description": "Hari libur nasional"
+  },
+  "2025-05-12": {
     "summary": "Hari Raya Waisak",
     "description": "Hari libur nasional"
   },
-  "2025-05-29": {
-    "summary": "Kenaikan Isa Al Masih",
+  "2025-05-13": {
+    "summary": "Cuti Bersama Waisak",
     "description": "Hari libur nasional"
   },
-  "2025-06-01": {
-    "summary": "Hari Lahir Pancasila",
+  "2025-05-30": {
+    "summary": "Cuti Bersama Kenaikan Isa Al Masih",
     "description": "Hari libur nasional"
   },
-  "2025-06-07": {
+  "2025-06-06": {
+    "summary": "Idul Adha (Lebaran Haji) (belum pasti)",
+    "description": "Hari libur nasional\nTanggal bersifat tentatif dan dapat berubah."
+  },
+  "2025-06-09": {
     "summary": "Idul Adha (Lebaran Haji)",
     "description": "Hari libur nasional"
   },
-  "2025-06-27": {
-    "summary": "Satu Muharam / Tahun Baru Hijriah",
-    "description": "Hari libur nasional"
-  },
-  "2025-08-17": {
-    "summary": "Hari Proklamasi Kemerdekaan R.I.",
-    "description": "Hari libur nasional"
-  },
-  "2025-09-05": {
-    "summary": "Maulid Nabi Muhammad",
-    "description": "Hari libur nasional"
-  },
-  "2025-12-25": {
-    "summary": "Hari Raya Natal",
+  "2025-12-26": {
+    "summary": "Cuti Bersama Natal (Hari Tinju)",
     "description": "Hari libur nasional"
   }
 }
